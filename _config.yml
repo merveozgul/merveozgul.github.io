@@ -1,20 +1,18 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Merve Ozgul's Website
+description: A blog on my projects and skills.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://merveozgul.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Merve Ozgul
+user_description: I'm passionate about data, strategy, and story-telling. I use data science tools(R, Python, SQL) to tackle problems and derive insights. I like to leverage story-telling with data by using interactive plots and dashboard (I love Plotly!).
+user_title: Lifelong Learner | Adventurer | Entrepreneur | MSc Business Analytics
+email: mozgul2017@student.hult.edu
+github_username:  merveozgul
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-134182587-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
